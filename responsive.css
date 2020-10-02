@@ -1,0 +1,29 @@
+@media all  and (max-width: 550px) {
+    h1{
+        margin-bottom: 60px;
+    }
+    
+    h2{
+        font-size: 24px;
+        margin: auto;
+    }
+
+    input[type='email']{
+        width: 80%;
+    }
+    input[type='text']{
+        width: 80%;
+    }
+    .check{
+        align-items: center;
+    }
+    .check input {
+        width: 200px;
+        height: 100px;
+    }
+
+    .thankYouPage_h1{
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+}
