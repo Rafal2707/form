@@ -4,7 +4,6 @@ function passName(){
     localStorage.setItem('textValue', imie);
     return false
 }
-
 document.getElementById('imie').innerHTML = localStorage.getItem('textValue');
 
 

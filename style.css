@@ -14,11 +14,9 @@ h1{
     margin-top: 100px;
     margin-bottom: 90px;
 }
-
 .thankYouPage_h1 h1{
     font-size: 55px;
 }
-
 h2{
     font-size: 29px;
     margin-bottom: 60px;
@@ -31,7 +29,6 @@ h2{
     margin: auto;
     text-align: center;
 }
-
 input{
     border:0px#185b61;
     border-bottom:2px solid #185b61;
@@ -48,7 +45,6 @@ input[type='email']{
 input[type='text']{
     width: 35%;
 }
-
 ::placeholder {
     color: #185b61;
 }
@@ -56,16 +52,13 @@ input[type='text']{
     display: flex;
     padding: 20px;
 }
-
 .check input{
     width: 200px;
     margin-right: 20px;
 }
-
 .check label{
     text-align: justify;
 }
-
 input[type="submit"]{
     background-color: #185b61;
     border: none;
@@ -73,9 +66,7 @@ input[type="submit"]{
     color: white;
     width: 200px;
 }
-
 #imie{
     text-decoration: underline;
     color: #3a3a3a;
-
 }
